@@ -1,4 +1,4 @@
-# Random_untitled2
+# Just_some_random_codes
 data <- read.csv('~/Downloads/econ1.csv')
 data_subset <- subset(data, )
 colnames(data)
